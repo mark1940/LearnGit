@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 add merge
 ohou laileyigeBUG!
+add /user/bin/env
